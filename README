@@ -1,0 +1,18 @@
+## Project name?
+- B10A6-Assess-Your-Asynchronous-JS-and-ES6-skills(Reddy Project).
+## Short description of the project.
+- This project demonstrates using JavaScript, the Document Object Model (DOM), and ES6 features to create dynamic, interactive web applications.
+## 5 key features of the project.
+- 1. api fetching
+- 2. Spinner loading
+- 3. click to modal
+- 4. category active button
+- 5. link to add image item
+## ES6 features used.
+- arrow function
+- callback function
+- forEach
+- api to data fetching
+- For of Loop
+## Live link to the deployed project.
+-Live Link: https://favorite-animal-06.netlify.app/
